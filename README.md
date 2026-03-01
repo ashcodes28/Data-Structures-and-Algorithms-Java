@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms-Java
 -->This repository contains my structured preparation for product-based software engineering interviews. The focus is on mastering core data structures and algorithmic patterns through consistent, pattern-oriented problem solving rather than random practice.
 
--->All solutions are implemented in Java and organized by fundamental patterns such as recursion, backtracking, sliding window, binary search (including binary search on answer), trees (DFS, BFS, BST), graphs (BFS/DFS, topological sort, shortest paths, union-find), dynamic programming (1D, 2D, subsequence, knapsack patterns), greedy algorithms, heaps, tries, bit manipulation, and advanced structures like segment trees and Fenwick trees.
+-->All solutions are implemented in Java (string based problems are implemented in python or java) and organized by fundamental patterns such as recursion, backtracking, sliding window, binary search (including binary search on answer), trees (DFS, BFS, BST), graphs (BFS/DFS, topological sort, shortest paths, union-find), dynamic programming (1D, 2D, subsequence, knapsack patterns), greedy algorithms, heaps, tries, bit manipulation, and advanced structures like segment trees and Fenwick trees.
 
 Each solution includes:
 1. Problem name
